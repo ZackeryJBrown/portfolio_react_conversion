@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/capio/static/css/main.d397b5ce.css",
+    "main.js": "/capio/static/js/main.0259d40e.js",
+    "static/js/787.cc277e6c.chunk.js": "/capio/static/js/787.cc277e6c.chunk.js",
+    "static/media/monotoneBusiness1080.webp": "/capio/static/media/monotoneBusiness1080.2807bb0d9cbe8ce30486.webp",
+    "index.html": "/capio/index.html",
+    "main.d397b5ce.css.map": "/capio/static/css/main.d397b5ce.css.map",
+    "main.0259d40e.js.map": "/capio/static/js/main.0259d40e.js.map",
+    "787.cc277e6c.chunk.js.map": "/capio/static/js/787.cc277e6c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d397b5ce.css",
+    "static/js/main.0259d40e.js"
+  ]
+}
